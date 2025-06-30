@@ -2,10 +2,10 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://yourportfolio.com)
 
-<h1 align="center">Hey 👋, I'm SreeHAri K S</h1>
+<h1 align="center">Hey 👋, I'm Sreehari K S</h1>
 <h3 align="center">Cyber Security Researcher </h3>
 
-<p align="left"> <a href="https://linkedin.com/in/saranprakash" target="blank"><img src="https://img.shields.io/twitter/follow/saranprakash?logo=twitter&style=for-the-badge" alt="saranprakash" /> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/sreehariks15" target="blank"><img src="https://img.shields.io/twitter/follow/saranprakash?logo=twitter&style=for-the-badge" alt="Sreehari K S" /> </a> </p>
 
 ---
 🚀 About Me:
@@ -23,22 +23,74 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sreehariks15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehariks" height="30" width="40" /></a>
-  <a href="https://instagram.com/sree___ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranprakash" height="30" width="40" /></a>
+  <a href="https://instagram.com/sree___ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreehariks" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<h3 align="left">📝 Languages:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/bash-icon.svg" alt="Shell" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="left">🛠 Tools & Frameworks:</h3>
+<p align="left">
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/tools/metasploit-framework/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
+  </a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ghidra_logo.svg" alt="Ghidra" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Hydra_logo.png" alt="Hydra" width="40" height="40"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/nmap-logo-64x64.png" alt="Nmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk-logo-gray.png" alt="Splunk" width="40" height="40"/>
+  </a>
+  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="sqlmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/nessus-logo_1.png" alt="Nessus" width="40" height="40"/>
+  </a>
+  <a href="https://www.qualys.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.qualys.com/docs/qualys-logo.svg" alt="Qualys" width="40" height="40"/>
+  </a>
+  <a href="https://accessdata.com/products-services/forensic-toolkit-ftk" target="_blank" rel="noreferrer">
+    <img src="https://accessdata.com/themes/custom/accessdata/favicon.ico" alt="FTK" width="40" height="40"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://portswigger.net/BurpSuite/images/favicons/favicon-32x32.png" alt="Burp Suite" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
-🚀 *Let's Build Something Amazing Together!*
+🛡️ *Hack to learn. Defend to protect!*
