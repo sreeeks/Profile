@@ -5,7 +5,6 @@
 <h1 align="center">Hey 👋, I'm Sreehari K S</h1>
 <h3 align="center">Cyber Security Researcher </h3>
 
-<p align="left"> <a href="https://linkedin.com/in/sreehariks15" target="blank"><img src="https://img.shields.io/twitter/follow/saranprakash?logo=twitter&style=for-the-badge" alt="Sreehari K S" /> </a> </p>
 
 ---
 🚀 About Me:
@@ -46,9 +45,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/bash-icon.svg" alt="Shell" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Shell" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">🛠 Tools & Frameworks:</h3>
 <p align="left">
@@ -80,13 +81,13 @@
     <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/nessus-logo_1.png" alt="Nessus" width="40" height="40"/>
   </a>
   <a href="https://www.qualys.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.qualys.com/docs/qualys-logo.svg" alt="Qualys" width="40" height="40"/>
+    <img src="https://www.qualys.com/favicon.ico" alt="Qualys" width="40" height="40"/>
   </a>
   <a href="https://accessdata.com/products-services/forensic-toolkit-ftk" target="_blank" rel="noreferrer">
     <img src="https://accessdata.com/themes/custom/accessdata/favicon.ico" alt="FTK" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/BurpSuite/images/favicons/favicon-32x32.png" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://portswigger.net/favicon.ico" alt="Burp Suite" width="40" height="40"/>
   </a>
 </p>
 
