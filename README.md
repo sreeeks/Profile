@@ -54,7 +54,7 @@
 <h3 align="left">🛠 Tools & Frameworks:</h3>
 <p align="left">
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/favicon.ico" alt="Wireshark" width="40" height="40"/>
+    <img src="https://images.icon-icons.com/159/PNG/256/wireshark_22388.png" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
