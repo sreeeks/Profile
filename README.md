@@ -63,28 +63,28 @@
     <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
   </a>
   <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ghidra_logo.svg" alt="Ghidra" width="40" height="40"/>
+    <img src="https://www.zdnet.com/a/img/resize/8a33aed5bf76b280ed12bba168ad811ee79c9377/2019/03/06/4abac187-116e-489e-b959-8d6b9cb6248c/ghidra.png?auto=webp&width=1280" alt="Ghidra" width="40" height="40"/>
   </a>
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Hydra_logo.png" alt="Hydra" width="40" height="40"/>
+    <img src="https://www.pentestpartners.com/wp-content/uploads/2015/07/hydradark.png" alt="Hydra" width="40" height="40"/>
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://nmap.org/images/nmap-logo-64x64.png" alt="Nmap" width="40" height="40"/>
+    <img src="https://infoseclabs.io/wp-content/uploads/2024/08/nmap1-1200x794.jpg" alt="Nmap" width="40" height="40"/>
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk-logo-gray.png" alt="Splunk" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png" alt="Splunk" width="40" height="40"/>
   </a>
   <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="sqlmap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="sqlmap" width="40" height="40"/>
   </a>
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/nessus-logo_1.png" alt="Nessus" width="40" height="40"/>
+    <img src="https://www.infojiniconsulting.com/wp-content/uploads/2020/11/nessus-logo-e1475580279964@2x.png" alt="Nessus" width="40" height="40"/>
   </a>
   <a href="https://www.qualys.com/" target="_blank" rel="noreferrer">
     <img src="https://www.qualys.com/favicon.ico" alt="Qualys" width="40" height="40"/>
   </a>
   <a href="https://accessdata.com/products-services/forensic-toolkit-ftk" target="_blank" rel="noreferrer">
-    <img src="https://accessdata.com/themes/custom/accessdata/favicon.ico" alt="FTK" width="40" height="40"/>
+    <img src="https://cdn11.bigcommerce.com/s-2c9am5e92r/images/stencil/1280x1280/products/8618/4463/AccessData-FTK__48816.1562159340.png?c=2" alt="FTK" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://portswigger.net/favicon.ico" alt="Burp Suite" width="40" height="40"/>
